@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://rkinstall.ee/sitemap.xml
+Sitemap: https://www.rkinstall.ee/sitemap.xml
